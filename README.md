@@ -10,7 +10,7 @@ Normal text means the idea is not in progress yet.
 Checklist:  
 ~~Starting a game~~ 
 ~~Joining a game~~  
-~~Red Light, Green Light concept (Click game)~~ 
+~~Red Light, Green Light concept (Click game)~~   
 _Red Light, Green Light_  
 **_Honeycomb concept_** 
 **Honeycomb** 
