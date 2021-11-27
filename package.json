@@ -1,0 +1,24 @@
+{
+  "name": "cowgamebot",
+  "version": "1.0.0",
+  "description": "Basically Squid game but in discord.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.0.12",
+    "nodemon": "^2.0.15",
+    "quick.db": "^7.1.3",
+    "reconlx": "^2.5.1",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.4.4",
+    "wokcommands": "^1.5.3"
+  }
+}
